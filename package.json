@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-javascript-framework-example",
+  "version": "1.0.0",
+  "description": "Vanilla javaScript framework example",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": { "parcel-bundler": "^1.6.1" },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": ["vanilla", "javascript", "framework"]
+}
